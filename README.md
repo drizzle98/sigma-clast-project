@@ -1,5 +1,4 @@
-# sigma-clast-project
-
 ## Automatic Detection and Classification of Rock Microstructures through Machine Learning
 
-##### (We can put a read-only google doc here which gives the general idea of our project)
+![GitHub watchers]https://img.shields.io/github/watchers/drizzle98/sigma-clast-project?style=social ![GitHub Repo stars](https://img.shields.io/github/stars/drizzle98/sigma-clast-project?style=social) ![GitHub forks](https://img.shields.io/github/forks/drizzle98/sigma-clast-project?style=social)
+
