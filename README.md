@@ -27,3 +27,11 @@ conda env create -f environment.yml
 ```bash
 conda activate microstructures
 ```
+Go to notebook folder:
+```bash
+cd notebooks
+```
+Run Jupyter lab:
+```bash
+jupyter-lab
+```
