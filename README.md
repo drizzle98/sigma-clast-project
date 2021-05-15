@@ -44,3 +44,4 @@ Run Jupyter lab:
 ```bash
 jupyter lab
 ```
+For YOLO model specifically, please also download the support material [here](https://mail.google.com/mail/u/1/#inbox/FMfcgxwLttCBMpvxKVfvqbWgKwHrfKDv)
