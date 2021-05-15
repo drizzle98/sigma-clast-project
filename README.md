@@ -6,10 +6,24 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) ![commit activity](https://img.shields.io/github/commit-activity/m/drizzle98/sigma-clast-project?style=flat-square) ![repo size](https://img.shields.io/github/repo-size/drizzle98/sigma-clast-project?style=flat-square)
 
 
-## Prerequisite 
-
-
-
 ## Usage
 
-
+```bash
+git clone https://github.com/drizzle98/sigma-clast-project
+```
+Go to your cloned directory
+```bash
+cd ../github/sigma-clast-project
+```
+Install the required packages
+Using pip:
+```bash
+pip install -r requirements.txt
+```
+Using conda:
+```bash
+conda env create -f environment.yml
+```
+```bash
+conda activate microstructures
+```
