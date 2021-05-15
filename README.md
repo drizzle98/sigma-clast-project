@@ -33,5 +33,5 @@ cd notebooks
 ```
 Run Jupyter lab:
 ```bash
-jupyter-lab
+jupyter lab
 ```
