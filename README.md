@@ -4,7 +4,7 @@
 
 
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) ![commit activity](https://img.shields.io/github/commit-activity/m/drizzle98/sigma-clast-project?style=flat-square) ![repo size](https://img.shields.io/github/repo-size/drizzle98/sigma-clast-project?style=flat-square)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drizzle98/sigma-clast-project/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fdrizzle98%2Fsigma-clast-project%2Fblob%2Fmain%2FSI_01_Automatic_Detection_and_Classification_of_Rock_Microstructures_through_Machine_Learning.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drizzle98/sigma-clast-project/HEAD)
 
 ## This project participates the 2021 Earth Cube Annual Meeting
 Please see the abstract [here](https://docs.google.com/document/d/1cwo1GQAwMbboZ8h2SBDRtxaTrmSn1ll20nyIQ2BoW24/edit?usp=sharing).
