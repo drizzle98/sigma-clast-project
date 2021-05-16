@@ -39,7 +39,6 @@ dependencies:
   - pygments=2.9.0=pyhd8ed1ab_0
   - pyparsing=2.4.7=pyh9f0ad1d_0
   - python-dateutil=2.8.1=py_0
-  - python_abi=3.8=1_cp38
   - send2trash=1.5.0=py_0
   - testpath=0.4.4=py_0
   - traitlets=5.0.5=py_0
