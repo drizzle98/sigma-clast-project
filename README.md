@@ -20,6 +20,8 @@ All of the models and visualization are in notebooks folders. Please see the ins
 
 ## Usage
 
+We provide requirements.txt for usage together with Binder, as well as exact replica of conda environment in env.yml
+
 ```bash
 git clone https://github.com/drizzle98/sigma-clast-project
 ```
@@ -34,7 +36,7 @@ pip install -r requirements.txt
 ```
 Using conda:
 ```bash
-conda env create -f environment.yml
+conda env create -f env.yml
 ```
 ```bash
 conda activate microstructures
